@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sufo10
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front-end Web Development along with Mobile App Development with flutter.
-- 💞️ I’m looking to collaborate on Front-end Web Development or Flutter App Development.
+- 🌱 I’m currently learning Back-End Web Development using Node.js.
+- 💞️ I’m looking to collaborate on Back-End Web Development.
 - 📫 How to reach me 
 - Email: sujan.poudel210@gmail.com
 
