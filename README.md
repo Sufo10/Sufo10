@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufo10&label=Profile%20views&color=0e75b6&style=flat" alt="sufo10" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **React.JS and Node.JS**
 
 - 🌱 I’m currently learning **MERN stack**
 
