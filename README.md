@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Chhetri Poudel</h1>
-<h3 align="center">A passionate Web Developer from Nepal working on MERN stack.</h3>
+<h3 align="center">A passionate Web Developer working on MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufo10&label=Profile%20views&color=0e75b6&style=flat" alt="sufo10" /> </p>
 
