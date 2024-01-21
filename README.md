@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sujan Chhetri Poudel</h1>
-<h3 align="center">A passionate Web Developer working on MERN stack.</h3>
+<h3 align="center">A passionate Full Stack Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufo10&label=Profile%20views&color=0e75b6&style=flat" alt="sufo10" /> </p>
 
-- 🔭 I’m currently working on **React.JS and Node.JS**
+- 🔭 I’m currently working on **JavaScript Web Development**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN/PERN stack**
 
 - 📫 How to reach me **sujan.poudel210@gmail.com**
 
