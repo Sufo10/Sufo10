@@ -108,9 +108,9 @@
   <a href="https://github.com/sufo10">
     <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=sufo10&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   </a>
-<!--   <a href="https://github.com/sufo10">
+<a href="https://github.com/sufo10">
     <img width="400" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sufo10&theme=radical&hide_border=true" />
-  </a> -->
+  </a> 
   <a href="https://github.com/sufo10">
     <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufo10&layout=compact&theme=radical&hide_border=true" />
   </a>
